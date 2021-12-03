@@ -1,0 +1,22 @@
+body {
+  margin: 20px;
+}
+
+.container {
+  margin-top: 20px;
+  padding: 20px;
+}
+
+button {
+  margin-top: 15px;
+  margin-right: 10px;
+}
+
+p {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.form-group {
+  margin-top: 10px;
+}
